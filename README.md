@@ -7,7 +7,7 @@ An AI that learns how to follow the player by using a neural network in Unity.
 ## Software Anaylse
 A neural network can be written in many different programming languages, so I could use multiple game engines like Unreal Engine 4, Unity, CryEngine, Frostbite and many more. 
 
-However, because I don't have alot of time and I need a small demo game to show off the neural network, I'll use an demo I've already made in Unity so I can focus on the neural network.
+However, because I don't have alot of time and I need a small demo game to show off the neural network, I'll use an demo I've already made in Unity, so I can focus on the neural network.
 
 ## Learn goals 
 - I want to learn how neural networks are written
